@@ -1,0 +1,20 @@
+{
+  "allowedShellExecutables": [
+    "/bin/zsh"
+  ],
+  "allowedScriptPaths": [
+    "/Applications/Example.app/Contents/Resources/helper.sh"
+  ],
+  "protectedPathExceptions": [],
+  "allowedNetworkChanges": [
+    {
+      "field": "httpProxy",
+      "allowedValue": "127.0.0.1:8080"
+    },
+    {
+      "field": "httpsProxy",
+      "allowedValue": "127.0.0.1:8080"
+    }
+  ],
+  "certificateEnrollmentWindow": 300
+}
