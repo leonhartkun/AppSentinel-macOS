@@ -1,5 +1,7 @@
 # AppSentinel Lightweight Monitor Design
 
+[简体中文](2026-09-19-lightweight-monitor-design.zh-CN.md) | English
+
 ## Goal
 
 AppSentinel launches and monitors any macOS application selected by the Mac owner. The lightweight version provides useful protection while the Endpoint Security entitlement is pending. It uses only built-in macOS facilities and does not require disabling System Integrity Protection.

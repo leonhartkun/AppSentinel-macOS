@@ -1,5 +1,7 @@
 # AppSentinel for macOS
 
+[简体中文](README.zh-CN.md) | English
+
 AppSentinel is a user-controlled macOS security utility for monitoring applications that the Mac owner does not fully trust. A user selects an application, reviews the permissions it is expected to need, and runs it under an explicit security policy.
 
 The project uses Apple's Endpoint Security framework to observe and authorize security-sensitive operations before they complete. It is designed for narrow, explainable policies rather than system-wide collection.

@@ -1,5 +1,7 @@
 # Privacy Policy
 
+[简体中文](PRIVACY.zh-CN.md) | English
+
 AppSentinel processes Endpoint Security events locally on the user's Mac.
 
 - No security event data is sent to the developer or a third party.
